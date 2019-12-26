@@ -1,6 +1,6 @@
 # Merry Christmas Bash
 
-Commands in terminal to echo out colored text
+Output ASCII art Christmas tree and 'Merry Christmas' message
 
 ## Support
 
