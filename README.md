@@ -10,7 +10,7 @@ Current support is for bash.
 ## Installation
 
 #### Install Dependency
-* [Merry Christma Bash](https://github.com/scottglenblanch/merry-christmas-bash)
+* [Merry Christmas Bash](https://github.com/scottglenblanch/merry-christmas-bash)
 
 #### Install (Unix Based)
 
